@@ -8,13 +8,11 @@
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld";
 import TheMap from "./components/TheMap";
 
 export default {
   name: "App",
   components: {
-    //HelloWorld,
     TheMap
   },
   data() {
